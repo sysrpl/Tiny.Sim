@@ -49,7 +49,7 @@ The blueprint demo loads an SVG document and whatever is inside the document as 
 
 ## Requirements
 
-Tiny uses SDL for cross platform OpenGL context creation and window management. If your target platform is Linux you'll need the libsdl-dev package installed to compile, or just libsdl2 to run. On Windows simply have SDL2.dll in the same directory and your programs.
+Tiny uses SDL for cross platform OpenGL context creation and window management. If your target platform is Linux you'll need the libsdl-dev package installed to compile, or just libsdl2 to run. On Windows simply have SDL2.dll in the same directory as your programs.
 
 ## Note
 
