@@ -32,7 +32,7 @@ Keyboard keys 1-9 switch between scenes. Alternately the toolbar atop the main w
 
 ![demo 9](https://cache.getlazarus.org/images/demo9.jpg)
 
-![demo 1](https://cache.getlazarus.org/images/demo1.jpg)
+![demo 1](https://cache.getlazarus.org/images/demo61.jpg)
 
 ### Playground Demo (906KB)
 
