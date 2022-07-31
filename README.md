@@ -23,7 +23,7 @@ Below is a brief description of the two demos.
 
 ### Main Demo (1.1MB)
 
-![alt text](https://github.com/sysrpl/Tiny.Sim/blob/master/assets/captures/demo8.jpg?raw=true)
+![demo 8](https://cache.getlazarus.org/images/demo8.jpg)
 
 
 The main demo aptly named ‘demo’ features 9 different scenes, each one highlighting a different aspect of the Tiny library. The demo makes use of the custom widget system to allow the user to alter different aspects of each scene.
