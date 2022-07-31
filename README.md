@@ -1,4 +1,4 @@
-# Codebot.Tiny
+# Tiny.Sim
 
 A tiny cross platform library for rendering real time animated 2D/3D graphics and 2D physics simulations.
 
