@@ -34,6 +34,8 @@ Keyboard keys 1-9 switch between scenes. Alternately the toolbar atop the main w
 
 ![demo 6](https://cache.getlazarus.org/images/demo6.jpg)
 
+![demo 1](https://cache.getlazarus.org/images/demo1.jpg)
+
 ### Playground Demo (906KB)
 
 The playground demo features SVG and physics simulation. Upon launch of the playground you’ll be asked to select a scene.
