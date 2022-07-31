@@ -23,12 +23,16 @@ Below is a brief description of the two demos.
 
 ### Main Demo (1.1MB)
 
-![demo 8](https://cache.getlazarus.org/images/demo8.jpg)
-
 
 The main demo aptly named ‘demo’ features 9 different scenes, each one highlighting a different aspect of the Tiny library. The demo makes use of the custom widget system to allow the user to alter different aspects of each scene.
 
 Keyboard keys 1-9 switch between scenes. Alternately the toolbar atop the main window can be used to switch scenes. The toolbar also features a performance graph, vertical sync toggle, and fullscreen toggle. Below are some screen images from the main demo.
+
+![demo 8](https://cache.getlazarus.org/images/demo8.jpg)
+
+![demo 9](https://cache.getlazarus.org/images/demo9.jpg)
+
+![demo 1](https://cache.getlazarus.org/images/demo1.jpg)
 
 ### Playground Demo (906KB)
 
@@ -39,6 +43,9 @@ The draw physics scene simulates a cartoon environment where you may draw open o
 The SVG icons and SVG image scenes load various SVG documents from disk and provides you with the ability to zoom, rotate, pan, and turn on or off certain SVG features. An animate feature to zoom or rotate the vector drawing is included. Please note, every SVG element / line / fill is redrawn each frame. The point is the SVG data is redrawn in real time, and these demos show that SVG can be suitably used in 2D real time animation if rendered through hardware.
 
 The blueprint demo loads an SVG document and whatever is inside the document as a 2D machine simulation. Mortars, springs, hinges, material properties (bounciness, density, and more) are all supported. While the machine is simple, maybe some of you can edit the SVG document to make more interesting machines.
+
+![playground 1](https://cache.getlazarus.org/images/playground1.jpg)
+![playground 2](https://cache.getlazarus.org/images/playground2.jpg)
 
 ## Requirements
 
