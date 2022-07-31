@@ -21,13 +21,16 @@ Two demos are included in this project, along with binaries of those demos for L
 
 Below is a brief description of the two demos.
 
-### Main Demo
+### Main Demo (1.1MB)
+
+![alt text](https://github.com/sysrpl/Tiny.Sim/blob/master/assets/captures/demo8.jpg?raw=true)
+
 
 The main demo aptly named ‘demo’ features 9 different scenes, each one highlighting a different aspect of the Tiny library. The demo makes use of the custom widget system to allow the user to alter different aspects of each scene.
 
 Keyboard keys 1-9 switch between scenes. Alternately the toolbar atop the main window can be used to switch scenes. The toolbar also features a performance graph, vertical sync toggle, and fullscreen toggle. Below are some screen images from the main demo.
 
-### Playground Demo
+### Playground Demo (906KB)
 
 The playground demo features SVG and physics simulation. Upon launch of the playground you’ll be asked to select a scene.
 
