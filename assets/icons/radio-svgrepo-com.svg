@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#C75C5C;}
+	.st1{opacity:0.2;}
+	.st2{fill:#231F20;}
+	.st3{fill:none;stroke:#E0E0D1;stroke-width:2;stroke-linecap:round;stroke-miterlimit:10;}
+	.st4{opacity:0.2;fill:#231F20;}
+	.st5{fill:#F5CF87;}
+	.st6{fill:#4F5D73;}
+	.st7{fill:#FFFFFF;}
+</style>
+<circle class="st0" cx="32" cy="32" r="32"/>
+<g class="st1">
+	<path class="st2" d="M50,27c-0.1,0-0.2,0-0.3,0l-34-9c-0.5-0.1-0.9-0.7-0.7-1.2c0.1-0.5,0.7-0.9,1.2-0.7l34,9
+		c0.5,0.1,0.9,0.7,0.7,1.2C50.8,26.7,50.4,27,50,27z"/>
+</g>
+<line class="st3" x1="50" y1="24" x2="16" y2="15"/>
+<path class="st4" d="M52,47c0,1.1-0.9,2-2,2H14c-1.1,0-2-0.9-2-2V27c0-1.1,0.9-2,2-2h36c1.1,0,2,0.9,2,2V47z"/>
+<path class="st5" d="M52,45c0,1.1-0.9,2-2,2H14c-1.1,0-2-0.9-2-2V25c0-1.1,0.9-2,2-2h36c1.1,0,2,0.9,2,2V45z"/>
+<g>
+	<circle class="st6" cx="24" cy="35" r="8"/>
+</g>
+<g class="st1">
+	<g>
+		<path class="st2" d="M24,29c4.1,0,7.4,3.1,7.9,7c0-0.3,0.1-0.7,0.1-1c0-4.4-3.6-8-8-8c-4.4,0-8,3.6-8,8c0,0.3,0,0.7,0.1,1
+			C16.6,32.1,19.9,29,24,29z"/>
+	</g>
+</g>
+<circle class="st4" cx="36.5" cy="42.5" r="1.5"/>
+<circle class="st4" cx="41.5" cy="42.5" r="1.5"/>
+<circle class="st4" cx="46.5" cy="42.5" r="1.5"/>
+<circle class="st6" cx="36.5" cy="41.5" r="1.5"/>
+<circle class="st6" cx="41.5" cy="41.5" r="1.5"/>
+<circle class="st6" cx="46.5" cy="41.5" r="1.5"/>
+<path class="st7" d="M48,35c0,1.1-0.9,2-2,2h-9c-1.1,0-2-0.9-2-2v-5c0-1.1,0.9-2,2-2h9c1.1,0,2,0.9,2,2V35z"/>
+<g class="st1">
+	<path class="st2" d="M46,28h-9c-1.1,0-2,0.9-2,2v2c0-1.1,0.9-2,2-2h9c1.1,0,2,0.9,2,2v-2C48,28.9,47.1,28,46,28z"/>
+</g>
+</svg>

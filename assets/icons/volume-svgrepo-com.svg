@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4F5D73;}
+	.st1{opacity:0.2;fill:#231F20;}
+	.st2{fill:#C75C5C;}
+	.st3{fill:#E0995E;}
+	.st4{fill:#F5CF87;}
+	.st5{fill:#76C2AF;}
+</style>
+<circle class="st0" cx="32" cy="32" r="32"/>
+<rect x="26" y="46" class="st1" width="12" height="4"/>
+<rect x="40" y="46" class="st1" width="12" height="4"/>
+<rect x="12" y="46" class="st1" width="12" height="4"/>
+<rect x="26" y="41" class="st1" width="12" height="4"/>
+<rect x="40" y="41" class="st1" width="12" height="4"/>
+<rect x="12" y="41" class="st1" width="12" height="4"/>
+<rect x="26" y="36" class="st1" width="12" height="4"/>
+<rect x="40" y="36" class="st1" width="12" height="4"/>
+<rect x="12" y="36" class="st1" width="12" height="4"/>
+<rect x="26" y="31" class="st1" width="12" height="4"/>
+<rect x="40" y="31" class="st1" width="12" height="4"/>
+<rect x="26" y="26" class="st1" width="12" height="4"/>
+<rect x="26" y="21" class="st1" width="12" height="4"/>
+<rect x="26" y="16" class="st1" width="12" height="4"/>
+<rect x="26" y="44" class="st2" width="12" height="4"/>
+<rect x="40" y="44" class="st2" width="12" height="4"/>
+<rect x="12" y="44" class="st2" width="12" height="4"/>
+<rect x="26" y="39" class="st3" width="12" height="4"/>
+<rect x="40" y="39" class="st3" width="12" height="4"/>
+<rect x="12" y="39" class="st3" width="12" height="4"/>
+<rect x="26" y="34" class="st3" width="12" height="4"/>
+<rect x="40" y="34" class="st3" width="12" height="4"/>
+<rect x="12" y="34" class="st3" width="12" height="4"/>
+<rect x="26" y="29" class="st4" width="12" height="4"/>
+<rect x="40" y="29" class="st4" width="12" height="4"/>
+<rect x="26" y="24" class="st4" width="12" height="4"/>
+<rect x="26" y="19" class="st5" width="12" height="4"/>
+<rect x="26" y="14" class="st5" width="12" height="4"/>
+</svg>

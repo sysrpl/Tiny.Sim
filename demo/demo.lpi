@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="12"/>
+    <General>
+      <Flags>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasTitleStatement Value="False"/>
+        <MainUnitHasScaledStatement Value="False"/>
+      </Flags>
+      <SessionStorage Value="InProjectDir"/>
+      <Title Value="demo"/>
+      <ResourceType Value="res"/>
+      <UseXPManifest Value="True"/>
+      <XPManifest>
+        <DpiAware Value="True"/>
+      </XPManifest>
+    </General>
+    <BuildModes>
+      <Item Name="Default" Default="True"/>
+      <Item Name="Debug">
+        <CompilerOptions>
+          <Version Value="11"/>
+          <Target>
+            <Filename Value="demo"/>
+          </Target>
+          <SearchPaths>
+            <IncludeFiles Value="$(ProjOutDir);../src"/>
+            <OtherUnitFiles Value="../src"/>
+            <UnitOutputDirectory Value="lib/$(TargetCPU)-$(TargetOS)"/>
+          </SearchPaths>
+          <Parsing>
+            <SyntaxOptions>
+              <IncludeAssertionCode Value="True"/>
+            </SyntaxOptions>
+          </Parsing>
+          <CodeGeneration>
+            <Checks>
+              <IOChecks Value="True"/>
+              <RangeChecks Value="True"/>
+              <OverflowChecks Value="True"/>
+              <StackChecks Value="True"/>
+            </Checks>
+            <VerifyObjMethodCallValidity Value="True"/>
+          </CodeGeneration>
+          <Linking>
+            <Debugging>
+              <DebugInfoType Value="dsDwarf2Set"/>
+              <UseHeaptrc Value="True"/>
+              <TrashVariables Value="True"/>
+              <UseExternalDbgSyms Value="True"/>
+            </Debugging>
+            <Options>
+              <Win32>
+                <GraphicApplication Value="True"/>
+              </Win32>
+            </Options>
+          </Linking>
+          <Other>
+            <CompilerMessages>
+              <IgnoredMessages idx5024="True"/>
+            </CompilerMessages>
+          </Other>
+        </CompilerOptions>
+      </Item>
+      <Item Name="Release">
+        <CompilerOptions>
+          <Version Value="11"/>
+          <Target>
+            <Filename Value="demo"/>
+          </Target>
+          <SearchPaths>
+            <IncludeFiles Value="$(ProjOutDir);../src"/>
+            <OtherUnitFiles Value="../src"/>
+            <UnitOutputDirectory Value="lib/$(TargetCPU)-$(TargetOS)"/>
+          </SearchPaths>
+          <CodeGeneration>
+            <SmartLinkUnit Value="True"/>
+            <Optimizations>
+              <OptimizationLevel Value="3"/>
+            </Optimizations>
+          </CodeGeneration>
+          <Linking>
+            <Debugging>
+              <GenerateDebugInfo Value="False"/>
+            </Debugging>
+            <LinkSmart Value="True"/>
+            <Options>
+              <Win32>
+                <GraphicApplication Value="True"/>
+              </Win32>
+            </Options>
+          </Linking>
+          <Other>
+            <CompilerMessages>
+              <IgnoredMessages idx5024="True"/>
+            </CompilerMessages>
+          </Other>
+        </CompilerOptions>
+      </Item>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+      <UseFileFilters Value="True"/>
+    </PublishOptions>
+    <RunParams>
+      <FormatVersion Value="2"/>
+    </RunParams>
+    <Units>
+      <Unit>
+        <Filename Value="demo.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Demo"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.inc"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.system.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.System"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.interop.gl.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Interop.GL"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.interop.nanovg.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Interop.NanoVG"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.interop.sdl2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Interop.SDL2"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.application.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Application"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.graphics.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Graphics"/>
+      </Unit>
+      <Unit>
+        <Filename Value="demo.atomicdots.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Demo.AtomicDots"/>
+      </Unit>
+      <Unit>
+        <Filename Value="demo.textbrush.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Demo.TextBrush"/>
+      </Unit>
+      <Unit>
+        <Filename Value="demo.mousetrack.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Demo.MouseTrack"/>
+      </Unit>
+      <Unit>
+        <Filename Value="demo.firesparks.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Demo.FireSparks"/>
+      </Unit>
+      <Unit>
+        <Filename Value="demo.crowdwalk.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Demo.CrowdWalk"/>
+      </Unit>
+      <Unit>
+        <Filename Value="heartbox.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="HeartBox"/>
+      </Unit>
+      <Unit>
+        <Filename Value="demo.lightbeams.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Demo.LightBeams"/>
+      </Unit>
+      <Unit>
+        <Filename Value="imagepaint.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="ImagePaint"/>
+      </Unit>
+      <Unit>
+        <Filename Value="blendtests.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="BlendTests"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.widgets.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Widgets"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.widgets.themes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Widgets.Themes"/>
+      </Unit>
+      <Unit>
+        <Filename Value="widgettests.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="WidgetTests"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.text.json.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Text.Json"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.text.glyphs.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Text.Glyphs"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.widgets.custom.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Widgets.Custom"/>
+      </Unit>
+      <Unit>
+        <Filename Value="demo.scene.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Demo.Scene"/>
+      </Unit>
+      <Unit>
+        <Filename Value="demo.viewer.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Demo.Viewer"/>
+      </Unit>
+      <Unit>
+        <Filename Value="demo.vectorclock.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Demo.VectorClock"/>
+      </Unit>
+      <Unit>
+        <Filename Value="demo.asteroidsgame.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Demo.AsteroidsGame"/>
+      </Unit>
+      <Unit>
+        <Filename Value="demo.synthwave.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Demo.Synthwave"/>
+      </Unit>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <Target>
+      <Filename Value="demo"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir);../src"/>
+      <OtherUnitFiles Value="../src"/>
+      <UnitOutputDirectory Value="lib/$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+    <CodeGeneration>
+      <Optimizations>
+        <OptimizationLevel Value="0"/>
+      </Optimizations>
+    </CodeGeneration>
+    <Linking>
+      <Options>
+        <Win32>
+          <GraphicApplication Value="True"/>
+        </Win32>
+      </Options>
+    </Linking>
+    <Other>
+      <CompilerMessages>
+        <IgnoredMessages idx5024="True"/>
+      </CompilerMessages>
+    </Other>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions>
+      <Item>
+        <Name Value="EAbort"/>
+      </Item>
+      <Item>
+        <Name Value="ECodetoolError"/>
+      </Item>
+      <Item>
+        <Name Value="EFOpenError"/>
+      </Item>
+    </Exceptions>
+  </Debugging>
+</CONFIG>

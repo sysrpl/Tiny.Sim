@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#2B3544;}
+	.st1{fill:#E0E0D1;}
+	.st2{opacity:0.2;}
+	.st3{fill:#231F20;}
+	.st4{fill:none;stroke:#4F5D73;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.st5{opacity:0.2;fill:#231F20;}
+	.st6{fill:#C75C5C;}
+</style>
+<rect x="-391" y="-1765" class="st0" width="608" height="1984"/>
+<circle class="st1" cx="32" cy="32" r="32"/>
+<g class="st2">
+	<path class="st3" d="M27,55c-0.2,0-0.4,0-0.7-0.1c-1-0.4-1.6-1.5-1.2-2.6l12-34c0.4-1,1.5-1.6,2.6-1.2c1,0.4,1.6,1.5,1.2,2.6
+		l-12,34C28.6,54.5,27.8,55,27,55z"/>
+</g>
+<line class="st4" x1="38" y1="18" x2="26" y2="52"/>
+<circle class="st5" cx="37" cy="23" r="11"/>
+<circle class="st6" cx="37" cy="21" r="11"/>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#2B3544;}
+	.st1{fill:#76C2AF;}
+	.st2{opacity:0.2;fill:#231F20;}
+	.st3{fill:#FFFFFF;}
+</style>
+<rect x="-475" y="-1765" class="st0" width="608" height="1984"/>
+<circle class="st1" cx="32" cy="32" r="32"/>
+<path class="st2" d="M50.5,25.4L31,43.1c0,0-4.3,3.8-10.4,3c-2.7-0.4-6.1-1.3-10.5-3.1l1.9-2.5h10.2c0,0,17.6-14.6,19.8-16.9
+	c1.9-1.9,6.8-3.3,9.9-2.5C53.1,21.5,53.5,22.4,50.5,25.4z"/>
+<polygon class="st2" points="33.2,35.3 15.8,32.6 18.3,29.1 40.5,29.1 "/>
+<path class="st3" d="M50.5,23.4L31,41.1c0,0-4.3,3.8-10.4,3c-2.7-0.4-6.1-1.3-10.5-3.1l1.9-2.5h10.2c0,0,17.6-14.6,19.8-16.9
+	c1.9-1.9,6.8-3.3,9.9-2.5C53.1,19.5,53.5,20.4,50.5,23.4z"/>
+<polygon class="st3" points="33.2,33.3 15.8,30.6 18,26.6 41,26.6 "/>
+</svg>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#C75C5C;}
+	.st1{fill:none;stroke:#E0E0D1;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#E0E0D1;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st3{opacity:0.2;}
+	.st4{fill:#231F20;}
+	.st5{fill:none;stroke:#E0E0D1;stroke-width:4;stroke-miterlimit:10;}
+</style>
+<circle class="st0" cx="32" cy="32" r="32"/>
+<path class="st1" d="M44.2,34.3c-6.3,7.5-18.2,7.5-24.5,0"/>
+<line class="st2" x1="32" y1="17" x2="32" y2="12"/>
+<g class="st3">
+	<path class="st4" d="M47.8,51.1l-12-22.3c-1.4,1.2-3,1.7-5,0.7c-0.7-0.3-1.5-0.8-2.2-1.3L16.2,51.1c-0.5,1-0.2,2.2,0.8,2.7
+		c1,0.5,2.2,0.2,2.7-0.8L32,30.2l12.2,22.7c0.4,0.7,1.1,1.1,1.8,1.1c0.3,0,0.6-0.1,0.9-0.2C47.9,53.2,48.3,52,47.8,51.1z"/>
+</g>
+<path class="st2" d="M35.1,29.8C39.3,37.5,46,50,46,50"/>
+<path class="st2" d="M18,50c0,0,6.8-12.7,11-20.4"/>
+<g class="st3">
+	<path class="st4" d="M32,34c-4.4,0-8-3.6-8-8s3.6-8,8-8c4.4,0,8,3.6,8,8S36.4,34,32,34z M32,22c-2.2,0-4,1.8-4,4s1.8,4,4,4
+		c2.2,0,4-1.8,4-4S34.2,22,32,22z"/>
+</g>
+<circle class="st5" cx="32" cy="24" r="6"/>
+</svg>

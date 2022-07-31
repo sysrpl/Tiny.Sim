@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#C75C5C;}
+	.st1{opacity:0.2;}
+	.st2{fill:#231F20;}
+	.st3{fill:#FFFFFF;}
+</style>
+<g id="Layer_1">
+	<g>
+		<circle class="st0" cx="32" cy="32" r="32"/>
+	</g>
+	<g class="st1">
+		<path class="st2" d="M50.2,43.4c-2-1.5-8.4-4.2-8.4-4.2s-7,5.4-14-6C19.7,20,16,18,16,18s-4,4-4,8s4,10,4,22c0,1.1,0.9,2,2,2
+			s2-0.9,2-2V34c0,0,4,0,8,8s8,8,12,8s12-0.2,12-1.7C52,46.6,52.4,45,50.2,43.4z"/>
+	</g>
+	<g>
+		<path class="st3" d="M16,16c0,0-4,4-4,8s4,10,4,22h4V32c0,0,4,0,8,8s8,8,12,8s12-0.2,12-1.7c0-1.7,0.4-3.3-1.8-4.9
+			c-2-1.5-8.4-4.2-8.4-4.2s-7,5.4-14-6C19.7,18,16,16,16,16z"/>
+	</g>
+	<g>
+		<path class="st3" d="M20,46c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2l0,0c0-1.1,0.9-2,2-2l0,0C19.1,44,20,44.9,20,46L20,46z"/>
+	</g>
+</g>
+<g id="Layer_2">
+</g>
+</svg>

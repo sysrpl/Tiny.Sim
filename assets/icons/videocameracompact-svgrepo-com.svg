@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#76C2AF;}
+	.st1{fill:#4F5D73;}
+	.st2{opacity:0.2;fill:#231F20;}
+	.st3{fill:#C75C5C;}
+	.st4{fill:#E0E0D1;}
+</style>
+<circle class="st0" cx="32" cy="32" r="32"/>
+<rect x="31" y="30" class="st1" width="11" height="8"/>
+<path class="st2" d="M34,50c0,1.1-0.9,2-2,2H16c-1.1,0-2-0.9-2-2V26c0-1.1,0.9-2,2-2h16c1.1,0,2,0.9,2,2V50z"/>
+<path class="st2" d="M55,46c0,1.1-0.9,2-2,2H39c-1.1,0-2-0.9-2-2V26c0-1.1,0.9-2,2-2h14c1.1,0,2,0.9,2,2V46z"/>
+<rect x="31" y="30" class="st2" width="11" height="10"/>
+<path class="st1" d="M34,48c0,1.1-0.9,2-2,2H16c-1.1,0-2-0.9-2-2V24c0-1.1,0.9-2,2-2h16c1.1,0,2,0.9,2,2V48z"/>
+<path class="st1" d="M55,44c0,1.1-0.9,2-2,2H39c-1.1,0-2-0.9-2-2V24c0-1.1,0.9-2,2-2h14c1.1,0,2,0.9,2,2V44z"/>
+<g>
+	<path class="st1" d="M24,15c-5,0-9,4-9,9s4,9,9,9s9-4,9-9S29,15,24,15z"/>
+</g>
+<circle class="st2" cx="18.5" cy="42.5" r="2.5"/>
+<circle class="st3" cx="18.5" cy="40.5" r="2.5"/>
+<path class="st2" d="M24,14c-6.6,0-12,5.4-12,12s5.4,12,12,12s12-5.4,12-12S30.6,14,24,14z M24,35c-5,0-9-4-9-9s4-9,9-9s9,4,9,9
+	S29,35,24,35z"/>
+<path class="st4" d="M24,12c-6.6,0-12,5.4-12,12s5.4,12,12,12s12-5.4,12-12S30.6,12,24,12z M24,33c-5,0-9-4-9-9s4-9,9-9s9,4,9,9
+	S29,33,24,33z"/>
+</svg>

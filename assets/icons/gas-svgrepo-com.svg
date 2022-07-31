@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#2B3544;}
+	.st1{fill:#E0E0D1;}
+	.st2{opacity:0.2;fill:#231F20;}
+	.st3{fill:#C75C5C;}
+	.st4{fill:none;stroke:#4F5D73;stroke-width:4;stroke-linecap:round;stroke-miterlimit:10;}
+	.st5{fill:none;stroke:#4F5D73;stroke-width:5;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<rect x="-139" y="-1597" class="st0" width="608" height="1984"/>
+<circle class="st1" cx="32" cy="32" r="32"/>
+<path class="st2" d="M44,16H32h-2l-2.2,2.2c-1-1-2.6-1-3.5,0L22.5,20c-1.7-1.6-4.3-3.1-8.1-3.9c-1.1-0.2-2.1,0.4-2.4,1.5
+	c-0.2,1.1,0.4,2.1,1.5,2.4c2.9,0.6,4.8,1.7,6.1,2.8l-1.4,1.4c-1,1-1,2.6,0,3.5L16,30v7v11c0,2.2,1.8,4,4,4h17h11c2.2,0,4-1.8,4-4V31
+	v-7C52,21.8,46.2,16,44,16z M48,24.4V29l-9-9h4.6C44.8,20.7,47.3,23.2,48,24.4z"/>
+<g>
+	<path class="st3" d="M43.6,18c1.2,0.7,3.8,3.2,4.4,4.4V46H20V29.7L31.7,18H43.6 M44,14H30L16,28v18c0,2.2,1.8,4,4,4h28
+		c2.2,0,4-1.8,4-4V22C52,19.8,46.2,14,44,14L44,14z"/>
+</g>
+<g>
+	<path class="st3" d="M20,48.5c-1.4,0-2.5-1.1-2.5-2.5V35.7l19.4-17.6l11.4,11.4H49c0.6,0,1.1-0.1,1.5-0.1V46c0,1.4-1.1,2.5-2.5,2.5
+		H20z"/>
+	<path class="st3" d="M36.9,20.1l10,10l0.9,0.9H49v15c0,0.6-0.4,1-1,1H20c-0.6,0-1-0.4-1-1v-9.7L36.9,20.1 M37,16L16,35v11
+		c0,2.2,1.8,4,4,4h28c2.2,0,4-1.8,4-4V29c0-1.1-0.2-1.3-0.6-1.3c-0.5,0-1.2,0.3-2.4,0.3L37,16L37,16z"/>
+</g>
+<path class="st4" d="M24,24c0,0-1-6-10-8"/>
+<line class="st5" x1="20" y1="24" x2="26" y2="18"/>
+<g>
+	<path class="st3" d="M20,48.5c-1.4,0-2.5-1.1-2.5-2.5V28.6l13.1-13.1H32c1.4,0,2.5,1.1,2.5,2.5v0.1l5,28c-0.1,1.3-1.2,2.4-2.5,2.4
+		H20z"/>
+	<path class="st3" d="M32,17c0.6,0,1,0.4,1,1v0.3l0,0.3L38,46.2c-0.1,0.5-0.5,0.8-1,0.8H20c-0.6,0-1-0.4-1-1V29.2L31.2,17H32 M32,14
+		h-2L16,28v18c0,2.2,1.8,4,4,4h17c2.2,0,4-1.8,4-4l-5-28C36,15.8,34.2,14,32,14L32,14z"/>
+</g>
+</svg>

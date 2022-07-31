@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#2B3544;}
+	.st1{fill:#4F5D73;}
+	.st2{fill:#C75C5C;}
+	.st3{fill:#F5CF87;}
+	.st4{fill:#E0995E;}
+	.st5{fill:#E0E0D1;stroke:#4F5D73;stroke-width:2;stroke-miterlimit:10;}
+</style>
+<rect x="-223" y="-1849" class="st0" width="608" height="1984"/>
+<circle class="st1" cx="32" cy="32" r="32"/>
+<circle class="st2" cx="46" cy="23" r="2"/>
+<circle class="st2" cx="56" cy="33" r="2"/>
+<path class="st3" d="M46,39c0,2.2,0,4,0,4H14c-2.2,0-4-1.8-4-4V24c0-2.2,1.8-4,4-4h30c2.2,0,2,1.8,2,4V39z"/>
+<path class="st3" d="M56,39c0,0,0.2,4-4,4h-8c0,0,0-1.8,0-4v-5c0-2.2,0-4,0-4h9c2,0,3,0.8,3,3V39z"/>
+<rect x="15" y="24" class="st4" width="18" height="6"/>
+<rect x="37" y="24" class="st4" width="5" height="6"/>
+<rect x="14" y="24" class="st4" width="5" height="6"/>
+<circle class="st5" cx="19" cy="43" r="4"/>
+<circle class="st5" cx="47" cy="43" r="4"/>
+</svg>

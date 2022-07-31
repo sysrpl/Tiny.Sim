@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#2B3544;}
+	.st1{fill:#C75C5C;}
+	.st2{opacity:0.2;fill:#231F20;}
+	.st3{fill:#76C2AF;}
+	.st4{opacity:0.2;}
+	.st5{fill:#231F20;}
+	.st6{fill:none;stroke:#F5CF87;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<rect x="-475" y="-1849" class="st0" width="608" height="1984"/>
+<circle class="st1" cx="32" cy="32" r="32"/>
+<circle class="st2" cx="20" cy="43.9" r="3"/>
+<circle class="st2" cx="47.3" cy="37.9" r="3"/>
+<circle class="st3" cx="20" cy="41.9" r="3"/>
+<circle class="st3" cx="47.3" cy="35.9" r="3"/>
+<g class="st4">
+	<path class="st5" d="M16.2,40c-4,0-7.8-2.3-8.3-2.7c-0.9-0.6-1.2-1.8-0.6-2.8c0.6-0.9,1.8-1.2,2.8-0.6c1.1,0.7,4.6,2.5,7.2,1.9
+		L48.5,29c2.5-0.6,5-3.7,5.7-4.7c0.6-0.9,1.8-1.2,2.8-0.6c0.9,0.6,1.2,1.8,0.6,2.8c-0.4,0.6-3.6,5.5-8.2,6.5l-31.3,6.9
+		C17.5,39.9,16.8,40,16.2,40z"/>
+</g>
+<path class="st6" d="M55,24c0,0-3,4.8-7,5.6c0,0-27.3,6-31.3,6.9c-3.9,0.9-8.7-2.2-8.7-2.2"/>
+</svg>

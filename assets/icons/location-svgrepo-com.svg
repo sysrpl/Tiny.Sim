@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#76C2AF;}
+	.st1{opacity:0.2;}
+	.st2{fill:#231F20;}
+	.st3{fill:#FFFFFF;}
+</style>
+<g id="Layer_1">
+	<g>
+		<circle class="st0" cx="32" cy="32" r="32"/>
+	</g>
+	<g class="st1">
+		<g>
+			<path class="st2" d="M32,14c-9.4,0-17,7.5-17,16.8C15,45.5,32,56,32,56s17-10.2,17-25.2C49,21.5,41.4,14,32,14z M32,38
+				c-4.4,0-8-3.6-8-8s3.6-8,8-8s8,3.6,8,8S36.4,38,32,38z"/>
+		</g>
+	</g>
+	<g>
+		<path class="st3" d="M32,12c-9.4,0-17,7.5-17,16.8C15,43.5,32,54,32,54s17-10.2,17-25.2C49,19.5,41.4,12,32,12z M32,36
+			c-4.4,0-8-3.6-8-8s3.6-8,8-8s8,3.6,8,8S36.4,36,32,36z"/>
+	</g>
+</g>
+<g id="Layer_2">
+</g>
+</svg>

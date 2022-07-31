@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#77B3D4;}
+	.st1{opacity:0.2;}
+	.st2{fill:#231F20;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#4F5D73;}
+</style>
+<circle class="st0" cx="32" cy="32" r="32"/>
+<g class="st1">
+	<path class="st2" d="M46,16H18c-1.1,0-2,0.9-2,2v32c0,1.1,0.9,2,2,2h28c1.1,0,2-0.9,2-2V18C48,16.9,47.1,16,46,16z M19,19h26v25H19
+		V19z"/>
+</g>
+<g>
+	<path class="st3" d="M46,14H18c-1.1,0-2,0.9-2,2v32c0,1.1,0.9,2,2,2h28c1.1,0,2-0.9,2-2V16C48,14.9,47.1,14,46,14z M19,17h26v25H19
+		V17z"/>
+</g>
+<rect x="19" y="17" class="st4" width="26" height="25"/>
+</svg>

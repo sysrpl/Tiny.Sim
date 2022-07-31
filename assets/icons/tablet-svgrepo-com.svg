@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E0995E;}
+	.st1{opacity:0.2;}
+	.st2{fill:#231F20;}
+	.st3{fill:#4F5D73;}
+	.st4{fill:#FFFFFF;}
+	.st5{opacity:0.2;fill:#FFFFFF;}
+	.st6{fill:#E0E0D1;}
+</style>
+<circle class="st0" cx="32" cy="32" r="32"/>
+<g class="st1">
+	<path class="st2" d="M47,49c0,2.2-1.8,4-4,4H21c-2.2,0-4-1.8-4-4V17c0-2.2,1.8-4,4-4h22c2.2,0,4,1.8,4,4V49z"/>
+</g>
+<g>
+	<path class="st3" d="M21,49.5c-1.4,0-2.5-1.1-2.5-2.5V15c0-1.4,1.1-2.5,2.5-2.5h22c1.4,0,2.5,1.1,2.5,2.5v32c0,1.4-1.1,2.5-2.5,2.5
+		H21z"/>
+	<path class="st4" d="M43,14c0.6,0,1,0.4,1,1v32c0,0.6-0.4,1-1,1H21c-0.6,0-1-0.4-1-1V15c0-0.6,0.4-1,1-1H43 M43,11H21
+		c-2.2,0-4,1.8-4,4v32c0,2.2,1.8,4,4,4h22c2.2,0,4-1.8,4-4V15C47,12.8,45.2,11,43,11L43,11z"/>
+</g>
+<path class="st5" d="M45,48.5v-36H24.7l15.3,37C41.6,49.1,43.3,48.8,45,48.5z"/>
+<g>
+	<polygon class="st4" points="45,50 20,50 19,43 45,43 	"/>
+</g>
+<g>
+	<circle class="st6" cx="32" cy="47" r="2"/>
+</g>
+</svg>

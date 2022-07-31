@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4F5D73;}
+	.st1{opacity:0.2;}
+	.st2{fill:#231F20;}
+	.st3{fill:#F5CF87;stroke:#E0995E;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st4{fill:none;stroke:#E0995E;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st5{opacity:0.2;fill:#231F20;}
+	.st6{fill:#FFFFFF;}
+	.st7{fill:none;stroke:#F5CF87;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#C75C5C;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<circle class="st0" cx="32" cy="32" r="32"/>
+<g class="st1">
+	<line class="st2" x1="28" y1="14" x2="19" y2="54"/>
+	<path class="st2" d="M19,55.5c-0.1,0-0.2,0-0.3,0c-0.8-0.2-1.3-1-1.1-1.8l9-40c0.2-0.8,1-1.3,1.8-1.1c0.8,0.2,1.3,1,1.1,1.8l-9,40
+		C20.3,55,19.7,55.5,19,55.5z"/>
+</g>
+<g class="st1">
+	<line class="st2" x1="37" y1="14" x2="45" y2="54"/>
+	<path class="st2" d="M45,55.5c-0.7,0-1.3-0.5-1.5-1.2l-8-40c-0.2-0.8,0.4-1.6,1.2-1.8c0.8-0.2,1.6,0.4,1.8,1.2l8,40
+		c0.2,0.8-0.4,1.6-1.2,1.8C45.2,55.5,45.1,55.5,45,55.5z"/>
+</g>
+<g class="st1">
+	<path class="st2" d="M32,55.5c-0.8,0-1.5-0.7-1.5-1.5V37.4c0-0.8,0.7-1.5,1.5-1.5c0.8,0,1.5,0.7,1.5,1.5V54
+		C33.5,54.8,32.8,55.5,32,55.5z"/>
+</g>
+<line class="st3" x1="28" y1="12" x2="19" y2="52"/>
+<line class="st3" x1="37" y1="12" x2="45" y2="52"/>
+<line class="st4" x1="32" y1="35.4" x2="32" y2="52"/>
+<path class="st5" d="M49,40.2c0,1-1,1.8-2.1,1.8H17.1C16,42,15,41.2,15,40.2V21.8c0-1,1-1.8,2.1-1.8h29.8c1.2,0,2.1,0.8,2.1,1.8
+	V40.2z"/>
+<path class="st6" d="M49,38.2c0,1-1,1.8-2.1,1.8H17.1C16,40,15,39.2,15,38.2V19.8c0-1,1-1.8,2.1-1.8h29.8c1.2,0,2.1,0.8,2.1,1.8
+	V38.2z"/>
+<g class="st1">
+	<path class="st2" d="M41,21.5H23c-0.8,0-1.5-0.7-1.5-1.5s0.7-1.5,1.5-1.5h18c0.8,0,1.5,0.7,1.5,1.5S41.8,21.5,41,21.5z"/>
+</g>
+<g class="st1">
+	<path class="st2" d="M41,43.5H23c-0.8,0-1.5-0.7-1.5-1.5s0.7-1.5,1.5-1.5h18c0.8,0,1.5,0.7,1.5,1.5S41.8,43.5,41,43.5z"/>
+</g>
+<line class="st7" x1="23" y1="18.5" x2="41" y2="18.5"/>
+<line class="st7" x1="23" y1="40.5" x2="41" y2="40.5"/>
+<path class="st8" d="M19.5,36c0,0,11-18,11-10s0,10,2,8s7-8,12-9"/>
+</svg>

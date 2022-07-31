@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Release"/>
+    <Units>
+      <Unit>
+        <Filename Value="playground.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Playground"/>
+        <TopLine Value="11"/>
+        <CursorPos Y="41"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.widgets.themes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Widgets.Themes"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1253"/>
+        <CursorPos Y="1267"/>
+        <UsageCount Value="202"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.widgets.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Widgets"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1508"/>
+        <CursorPos X="35" Y="1641"/>
+        <UsageCount Value="202"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.widgets.custom.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Widgets.Custom"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="10"/>
+        <UsageCount Value="202"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.text.glyphs.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="202"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.system.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.System"/>
+        <EditorIndex Value="7"/>
+        <TopLine Value="371"/>
+        <CursorPos X="3" Y="354"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.physics.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Physics"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="630"/>
+        <CursorPos X="35" Y="645"/>
+        <UsageCount Value="202"/>
+        <Bookmarks Count="2">
+          <Item0 ID="2"/>
+          <Item1 X="3" Y="875" ID="1"/>
+        </Bookmarks>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.interop.sdl2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Interop.SDL2"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="677"/>
+        <CursorPos X="12" Y="706"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.interop.nanovg.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Interop.NanoVG"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="793"/>
+        <CursorPos X="3"/>
+        <UsageCount Value="202"/>
+        <Bookmarks Count="1">
+          <Item0 X="23" Y="310" ID="2"/>
+        </Bookmarks>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.interop.gl.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Interop.GL"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="13" Y="8"/>
+        <UsageCount Value="202"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.interop.chipmunk2d.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Interop.Chipmunk2D"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="2235"/>
+        <CursorPos X="40" Y="2253"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.inc"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="202"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.graphics.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Graphics"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="598"/>
+        <CursorPos X="5" Y="629"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.application.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Application"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="1539"/>
+        <CursorPos X="3" Y="1559"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="play.drawphysics.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Play.DrawPhysics"/>
+        <EditorIndex Value="8"/>
+        <UsageCount Value="202"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.physics.scene.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Physics.Scene"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="202"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.types.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Types"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.text.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Text"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="97"/>
+        <CursorPos X="37" Y="117"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.text.json.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Text.Json"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="200"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.text.xml.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Text.Xml"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="153"/>
+        <CursorPos Y="284"/>
+        <UsageCount Value="232"/>
+      </Unit>
+      <Unit>
+        <Filename Value="play.svg.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Play.Svg"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="228"/>
+        <Bookmarks Count="1">
+          <Item0 X="5" Y="1196" ID="3"/>
+        </Bookmarks>
+      </Unit>
+      <Unit>
+        <Filename Value="play.svgscene.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Play.SvgScene"/>
+        <EditorIndex Value="10"/>
+        <TopLine Value="16"/>
+        <CursorPos X="12" Y="21"/>
+        <UsageCount Value="212"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="play.svgrender.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Play.SvgRender"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="25"/>
+        <UsageCount Value="209"/>
+      </Unit>
+      <Unit>
+        <Filename Value="play.svggrid.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Play.SvgGrid"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="19"/>
+        <CursorPos X="32" Y="41"/>
+        <UsageCount Value="210"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.geometry.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Geometry"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="331"/>
+        <CursorPos Y="343"/>
+        <UsageCount Value="202"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.animation.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Animation"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1340"/>
+        <CursorPos Y="1995"/>
+        <UsageCount Value="198"/>
+      </Unit>
+      <Unit>
+        <Filename Value="play.svgphysics.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Play.SvgPhysics"/>
+        <EditorIndex Value="9"/>
+        <TopLine Value="16"/>
+        <UsageCount Value="193"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../../../fpc/rtl/inc/ustringh.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="11" Y="18"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.constants.pas"/>
+        <UnitName Value="Tiny.Constants"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="3" Y="15"/>
+        <UsageCount Value="2"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.text.xml.unix.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1197"/>
+        <CursorPos X="3" Y="1225"/>
+        <UsageCount Value="3"/>
+        <Bookmarks Count="1">
+          <Item0 Y="480" ID="1"/>
+        </Bookmarks>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1556" TopLine="1537"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1557" TopLine="1537"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1558" TopLine="1537"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1559" TopLine="1537"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1554" TopLine="1537"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1556" TopLine="1537"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1557" TopLine="1537"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1558" TopLine="1537"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1559" TopLine="1537"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1554" TopLine="1537"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1561" TopLine="1537"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1562" TopLine="1537"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1563" TopLine="1537"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1553" TopLine="1537"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1561" Column="22" TopLine="1537"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1547" Column="2" TopLine="1537"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1569" Column="19" TopLine="1543"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1579" Column="33" TopLine="1527"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1580" Column="24" TopLine="1556"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1582" TopLine="1558"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1583" TopLine="1558"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1574" Column="18" TopLine="1532"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="1561" Column="24" TopLine="1541"/>
+      </Position>
+      <Position>
+        <Filename Value="playground.lpr"/>
+        <Caret Line="19"/>
+      </Position>
+      <Position>
+        <Filename Value="playground.lpr"/>
+        <Caret Line="18" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="play.svggrid.pas"/>
+        <Caret Line="41" Column="32" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="playground.lpr"/>
+        <Caret Line="29" Column="13" TopLine="6"/>
+      </Position>
+      <Position>
+        <Filename Value="playground.lpr"/>
+        <Caret Line="30" Column="21" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.application.pas"/>
+        <Caret Line="188" Column="10" TopLine="172"/>
+      </Position>
+      <Position>
+        <Filename Value="../src/tiny.interop.chipmunk2d.pas"/>
+        <Caret Line="2253" Column="20" TopLine="2235"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="../src/tiny.text.xml.unix.inc"/>
+        <Line Value="280"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="../src/tiny.physics.pas"/>
+        <Line Value="1633"/>
+      </Item>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>

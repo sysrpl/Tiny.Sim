@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#2B3544;}
+	.st1{fill:#C75C5C;}
+	.st2{opacity:0.2;}
+	.st3{fill:#231F20;}
+	.st4{fill:#FFFFFF;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<rect x="-307" y="-1765" class="st0" width="608" height="1984"/>
+<circle class="st1" cx="32" cy="32" r="32"/>
+<g class="st2">
+	<polygon class="st3" points="32,16.8 17.6,49.2 32,42 46.4,49.2 	"/>
+	<path class="st3" d="M46.4,50.5c-0.2,0-0.4,0-0.6-0.1L32,43.5l-13.8,6.9c-0.5,0.3-1.1,0.2-1.5-0.2c-0.4-0.4-0.5-1-0.3-1.5
+		l14.4-32.3c0.2-0.5,0.7-0.8,1.2-0.8c0.5,0,1,0.3,1.2,0.8l14.4,32.3c0.2,0.5,0.1,1.1-0.3,1.5C47,50.4,46.7,50.5,46.4,50.5z M32,40.6
+		c0.2,0,0.4,0,0.6,0.1l11,5.5L32,20.2L20.4,46.3l11-5.5C31.6,40.7,31.8,40.6,32,40.6z"/>
+</g>
+<polygon class="st4" points="32,15 17.9,46.7 32,39.6 46.1,46.7 "/>
+</svg>

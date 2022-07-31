@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#2B3544;}
+	.st1{fill:#76C2AF;}
+	.st2{opacity:0.2;}
+	.st3{fill:#231F20;}
+	.st4{fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;}
+	.st5{opacity:0.2;fill:#231F20;}
+	.st6{fill:#4F5D73;}
+</style>
+<rect x="-55" y="-1849" class="st0" width="608" height="1984"/>
+<circle class="st1" cx="32" cy="32" r="32"/>
+<g class="st2">
+	<g>
+		<path class="st3" d="M32,52c-0.8,0-1.5-0.9-1.5-2V13c0-1.1,0.7-2,1.5-2s1.5,0.9,1.5,2v37C33.5,51.1,32.8,52,32,52z"/>
+	</g>
+	<g>
+		<path class="st3" d="M50.1,35H13.9c-1.1,0-1.9-0.7-1.9-1.5s0.9-1.5,1.9-1.5h36.1c1.1,0,1.9,0.7,1.9,1.5S51.1,35,50.1,35z"/>
+	</g>
+	<g>
+		<path class="st3" d="M44.5,48.6c-0.4,0-0.8-0.1-1.1-0.4L16.9,21.6c-0.6-0.6-0.6-1.5,0-2.1c0.6-0.6,1.5-0.6,2.1,0L45.6,46
+			c0.6,0.6,0.6,1.5,0,2.1C45.3,48.4,44.9,48.6,44.5,48.6z"/>
+	</g>
+	<g>
+		<path class="st3" d="M18.9,49c-0.4,0-0.8-0.1-1.1-0.4c-0.6-0.6-0.6-1.5,0-2.1l28.6-28.6c0.6-0.6,1.5-0.6,2.1,0
+			c0.6,0.6,0.6,1.5,0,2.1L20,48.6C19.7,48.9,19.3,49,18.9,49z"/>
+	</g>
+</g>
+<g>
+	<line class="st4" x1="32" y1="12" x2="32" y2="52"/>
+	<line class="st4" x1="52" y1="31.5" x2="12" y2="31.5"/>
+	<line class="st4" x1="46.1" y1="46.1" x2="17.9" y2="17.9"/>
+	<line class="st4" x1="17.9" y1="46.1" x2="46.1" y2="17.9"/>
+</g>
+<g class="st2">
+	<circle class="st3" cx="32" cy="33" r="2"/>
+</g>
+<g>
+	<circle class="st1" cx="32" cy="32" r="2"/>
+</g>
+<path class="st5" d="M32,16c9.9,0,18,8.1,18,18s-8.1,18-18,18s-18-8.1-18-18S22.1,16,32,16 M32,12c-12.2,0-22,9.8-22,22
+	s9.8,22,22,22s22-9.8,22-22S44.2,12,32,12L32,12z"/>
+<g>
+	<path class="st6" d="M32,14c9.9,0,18,8.1,18,18s-8.1,18-18,18s-18-8.1-18-18S22.1,14,32,14 M32,10c-12.2,0-22,9.8-22,22
+		s9.8,22,22,22s22-9.8,22-22S44.2,10,32,10L32,10z"/>
+</g>
+</svg>

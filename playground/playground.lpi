@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectOptions>
+    <Version Value="12"/>
+    <General>
+      <Flags>
+        <MainUnitHasCreateFormStatements Value="False"/>
+        <MainUnitHasTitleStatement Value="False"/>
+        <MainUnitHasScaledStatement Value="False"/>
+      </Flags>
+      <SessionStorage Value="InProjectDir"/>
+      <Title Value="playground"/>
+      <UseAppBundle Value="False"/>
+      <ResourceType Value="res"/>
+    </General>
+    <BuildModes>
+      <Item Name="Default" Default="True"/>
+      <Item Name="Debug">
+        <CompilerOptions>
+          <Version Value="11"/>
+          <Target>
+            <Filename Value="playground"/>
+          </Target>
+          <SearchPaths>
+            <IncludeFiles Value="$(ProjOutDir);../src"/>
+            <OtherUnitFiles Value="../src"/>
+            <UnitOutputDirectory Value="lib/$(TargetCPU)-$(TargetOS)"/>
+          </SearchPaths>
+          <Parsing>
+            <SyntaxOptions>
+              <IncludeAssertionCode Value="True"/>
+            </SyntaxOptions>
+          </Parsing>
+          <CodeGeneration>
+            <Checks>
+              <IOChecks Value="True"/>
+              <RangeChecks Value="True"/>
+              <OverflowChecks Value="True"/>
+              <StackChecks Value="True"/>
+            </Checks>
+            <VerifyObjMethodCallValidity Value="True"/>
+          </CodeGeneration>
+          <Linking>
+            <Debugging>
+              <DebugInfoType Value="dsDwarf2Set"/>
+              <UseHeaptrc Value="True"/>
+              <TrashVariables Value="True"/>
+              <UseExternalDbgSyms Value="True"/>
+            </Debugging>
+          </Linking>
+        </CompilerOptions>
+      </Item>
+      <Item Name="Release">
+        <CompilerOptions>
+          <Version Value="11"/>
+          <Target>
+            <Filename Value="playground"/>
+          </Target>
+          <SearchPaths>
+            <IncludeFiles Value="$(ProjOutDir);../src"/>
+            <OtherUnitFiles Value="../src"/>
+            <UnitOutputDirectory Value="lib/$(TargetCPU)-$(TargetOS)"/>
+          </SearchPaths>
+          <CodeGeneration>
+            <SmartLinkUnit Value="True"/>
+            <Optimizations>
+              <OptimizationLevel Value="3"/>
+            </Optimizations>
+          </CodeGeneration>
+          <Linking>
+            <Debugging>
+              <GenerateDebugInfo Value="False"/>
+            </Debugging>
+            <LinkSmart Value="True"/>
+          </Linking>
+        </CompilerOptions>
+      </Item>
+    </BuildModes>
+    <PublishOptions>
+      <Version Value="2"/>
+      <UseFileFilters Value="True"/>
+    </PublishOptions>
+    <RunParams>
+      <FormatVersion Value="2"/>
+    </RunParams>
+    <Units>
+      <Unit>
+        <Filename Value="playground.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Playground"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.widgets.themes.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Widgets.Themes"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.widgets.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Widgets"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.widgets.custom.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Widgets.Custom"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.text.glyphs.pas"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.system.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.System"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.physics.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Physics"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.interop.sdl2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Interop.SDL2"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.interop.nanovg.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Interop.NanoVG"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.interop.gl.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Interop.GL"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.interop.chipmunk2d.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Interop.Chipmunk2D"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.inc"/>
+        <IsPartOfProject Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.graphics.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Graphics"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.application.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Application"/>
+      </Unit>
+      <Unit>
+        <Filename Value="play.drawphysics.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Play.DrawPhysics"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.physics.scene.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Physics.Scene"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.types.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Types"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.text.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Text"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.text.json.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Text.Json"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.text.xml.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Text.Xml"/>
+      </Unit>
+      <Unit>
+        <Filename Value="play.svg.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Play.Svg"/>
+      </Unit>
+      <Unit>
+        <Filename Value="play.svgscene.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Play.SvgScene"/>
+      </Unit>
+      <Unit>
+        <Filename Value="play.svgrender.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Play.SvgRender"/>
+      </Unit>
+      <Unit>
+        <Filename Value="play.svggrid.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Play.SvgGrid"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.geometry.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Geometry"/>
+      </Unit>
+      <Unit>
+        <Filename Value="../src/tiny.animation.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Tiny.Animation"/>
+      </Unit>
+      <Unit>
+        <Filename Value="play.svgphysics.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Play.SvgPhysics"/>
+      </Unit>
+    </Units>
+  </ProjectOptions>
+  <CompilerOptions>
+    <Version Value="11"/>
+    <Target>
+      <Filename Value="playground"/>
+    </Target>
+    <SearchPaths>
+      <IncludeFiles Value="$(ProjOutDir);../src"/>
+      <OtherUnitFiles Value="../src"/>
+      <UnitOutputDirectory Value="lib/$(TargetCPU)-$(TargetOS)"/>
+    </SearchPaths>
+  </CompilerOptions>
+  <Debugging>
+    <Exceptions>
+      <Item>
+        <Name Value="EAbort"/>
+      </Item>
+      <Item>
+        <Name Value="ECodetoolError"/>
+      </Item>
+      <Item>
+        <Name Value="EFOpenError"/>
+      </Item>
+    </Exceptions>
+  </Debugging>
+</CONFIG>

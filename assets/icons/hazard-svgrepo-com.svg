@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#4F5D73;}
+	.st1{opacity:0.2;}
+	.st2{fill:#231F20;}
+	.st3{fill:#F5CF87;}
+</style>
+<g id="Layer_1">
+	<g>
+		<circle class="st0" cx="32" cy="32" r="32"/>
+	</g>
+	<g class="st1">
+		<g>
+			<path class="st2" d="M10,34.5c0,3.7,0.9,7.5,2.9,11c2,3.5,4.8,6.2,8.1,8.1l11-19.1H10z"/>
+		</g>
+		<g>
+			<path class="st2" d="M43,53.5c7.1-4.1,11-11.5,11-19.1l-22,0L43,53.5z"/>
+		</g>
+		<g>
+			<path class="st2" d="M43,15.4c-6.6-3.8-14.9-4.1-22,0l11,19.1L43,15.4z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st3" d="M10,32.5c0,3.7,0.9,7.5,2.9,11c2,3.5,4.8,6.2,8.1,8.1l11-19.1H10z"/>
+		</g>
+		<g>
+			<path class="st3" d="M43,51.5c7.1-4.1,11-11.5,11-19.1l-22,0L43,51.5z"/>
+		</g>
+		<g>
+			<path class="st3" d="M43,13.4c-6.6-3.8-14.9-4.1-22,0l11,19.1L43,13.4z"/>
+		</g>
+	</g>
+</g>
+<g id="Layer_2">
+</g>
+</svg>

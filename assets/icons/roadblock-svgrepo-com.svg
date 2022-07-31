@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#2B3544;}
+	.st1{fill:#E0E0D1;}
+	.st2{opacity:0.2;fill:#231F20;}
+	.st3{fill:#E0995E;}
+	.st4{fill:#4F5D73;}
+	.st5{fill:#F5CF87;}
+</style>
+<rect x="-55" y="-1429" class="st0" width="608" height="1984"/>
+<circle class="st1" cx="32" cy="32" r="32"/>
+<path class="st2" d="M20,48c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2v-8c0-1.1,0.9-2,2-2l0,0c1.1,0,2,0.9,2,2V48z"/>
+<path class="st2" d="M48,48c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2v-8c0-1.1,0.9-2,2-2l0,0c1.1,0,2,0.9,2,2V48z"/>
+<path class="st3" d="M20,46c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2v-8c0-1.1,0.9-2,2-2l0,0c1.1,0,2,0.9,2,2V46z"/>
+<path class="st3" d="M48,46c0,1.1-0.9,2-2,2l0,0c-1.1,0-2-0.9-2-2v-8c0-1.1,0.9-2,2-2l0,0c1.1,0,2,0.9,2,2V46z"/>
+<path class="st2" d="M55.2,23.6c-0.7-1-1.9-1.6-3.2-1.6h-8H30H18h-6c-2.2,0-4,1.8-4,4v12c0,0.9,0.3,1.7,0.8,2.4
+	c0.7,1,1.9,1.6,3.2,1.6h8h14h12h6c2.2,0,4-1.8,4-4V26C56,25.1,55.7,24.3,55.2,23.6z"/>
+<path class="st4" d="M12,20c-2.2,0-4,1.8-4,4v12c0,0.9,0.3,1.7,0.8,2.4L18,20H12z"/>
+<polygon class="st4" points="30,20 20,40 34,40 44,20 "/>
+<path class="st5" d="M18,20L8.8,38.4c0.7,1,1.9,1.6,3.2,1.6h8l10-20H18z"/>
+<path class="st4" d="M46,40h6c2.2,0,4-1.8,4-4V24c0-0.9-0.3-1.7-0.8-2.4L46,40z"/>
+<path class="st5" d="M52,20h-8L34,40h12l9.2-18.4C54.5,20.6,53.3,20,52,20z"/>
+</svg>

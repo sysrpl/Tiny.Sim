@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#2B3544;}
+	.st1{fill:#E0995E;}
+	.st2{opacity:0.2;fill:#231F20;}
+	.st3{fill:#E0E0D1;}
+	.st4{fill:#FFFFFF;}
+</style>
+<rect x="-139" y="-1765" class="st0" width="608" height="1984"/>
+<circle class="st1" cx="32" cy="32" r="32"/>
+<polygon class="st2" points="26,52 14,48 14,16 26,20 "/>
+<polygon class="st2" points="38,48 26,52 26,20 38,16 "/>
+<polygon class="st2" points="50,52 38,48 38,16 50,20 "/>
+<polygon class="st3" points="26,50 14,46 14,14 26,18 "/>
+<polygon class="st4" points="38,46 26,50 26,18 38,14 "/>
+<polygon class="st3" points="50,50 38,46 38,14 50,18 "/>
+</svg>

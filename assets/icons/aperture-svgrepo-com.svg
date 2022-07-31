@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E0E0D1;}
+	.st1{opacity:0.2;}
+	.st2{fill:#231F20;}
+	.st3{fill:#4F5D73;}
+</style>
+<circle class="st0" cx="32" cy="32" r="32"/>
+<g class="st1">
+	<path class="st2" d="M19,13.8c-4.5,2.9-7.9,7.2-9.7,12.3l9.7,9.7V13.8z"/>
+</g>
+<g class="st1">
+	<path class="st2" d="M8.4,29.5C8.1,31,8,32.5,8,34c0,3.6,0.8,7,2.2,10h12.7L8.4,29.5z"/>
+</g>
+<g class="st1">
+	<path class="st2" d="M27.5,57.6c1.5,0.3,3,0.4,4.5,0.4c3.6,0,7-0.8,10-2.2V43.1L27.5,57.6z"/>
+</g>
+<g class="st1">
+	<path class="st2" d="M11.8,47c2.9,4.5,7.2,7.9,12.3,9.7l9.7-9.7H11.8z"/>
+</g>
+<g class="st1">
+	<path class="st2" d="M55.6,38.5c0.3-1.5,0.4-3,0.4-4.5c0-3.6-0.8-7-2.2-10H41.1L55.6,38.5z"/>
+</g>
+<g class="st1">
+	<path class="st2" d="M45,54.2c4.5-2.9,7.9-7.2,9.7-12.3L45,32.2V54.2z"/>
+</g>
+<g class="st1">
+	<path class="st2" d="M52.2,21c-2.9-4.5-7.2-7.9-12.3-9.7L30.2,21H52.2z"/>
+</g>
+<g class="st1">
+	<path class="st2" d="M36.5,10.4C35,10.1,33.5,10,32,10c-3.6,0-7,0.8-10,2.2v12.7L36.5,10.4z"/>
+</g>
+<g>
+	<g>
+		<path class="st3" d="M19,11.8c-4.5,2.9-7.9,7.2-9.7,12.3l9.7,9.7V11.8z"/>
+	</g>
+	<g>
+		<path class="st3" d="M8.4,27.5C8.1,29,8,30.5,8,32c0,3.6,0.8,7,2.2,10h12.7L8.4,27.5z"/>
+	</g>
+	<g>
+		<path class="st3" d="M27.5,55.6c1.5,0.3,3,0.4,4.5,0.4c3.6,0,7-0.8,10-2.2V41.1L27.5,55.6z"/>
+	</g>
+	<g>
+		<path class="st3" d="M11.8,45c2.9,4.5,7.2,7.9,12.3,9.7l9.7-9.7H11.8z"/>
+	</g>
+	<g>
+		<path class="st3" d="M55.6,36.5c0.3-1.5,0.4-3,0.4-4.5c0-3.6-0.8-7-2.2-10H41.1L55.6,36.5z"/>
+	</g>
+	<g>
+		<path class="st3" d="M45,52.2c4.5-2.9,7.9-7.2,9.7-12.3L45,30.2V52.2z"/>
+	</g>
+	<g>
+		<path class="st3" d="M52.2,19c-2.9-4.5-7.2-7.9-12.3-9.7L30.2,19H52.2z"/>
+	</g>
+	<g>
+		<path class="st3" d="M36.5,8.4C35,8.1,33.5,8,32,8c-3.6,0-7,0.8-10,2.2v12.7L36.5,8.4z"/>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#2B3544;}
+	.st1{fill:#4F5D73;}
+	.st2{opacity:0.2;fill:#231F20;}
+	.st3{fill:#E0E0D1;}
+	.st4{fill:#77B3D4;}
+</style>
+<rect x="-307" y="-1597" class="st0" width="608" height="1984"/>
+<circle class="st1" cx="32" cy="32" r="32"/>
+<path class="st2" d="M56,37c0,2-10.7,8-24,8S8,39,8,37c0-1.8,10.7-8,24-8S56,35.1,56,37z"/>
+<path class="st3" d="M56,35c0,2-10.7,8-24,8S8,37,8,35c0-1.8,10.7-8,24-8S56,33.1,56,35z"/>
+<path class="st2" d="M41.5,30.5c0,5.2-4.2,5.5-9.5,5.5s-9.5-0.3-9.5-5.5S26.8,21,32,21S41.5,25.2,41.5,30.5z"/>
+<path class="st4" d="M41.5,28.5c0,5.2-4.2,5.5-9.5,5.5s-9.5-0.3-9.5-5.5S26.8,19,32,19S41.5,23.2,41.5,28.5z"/>
+</svg>

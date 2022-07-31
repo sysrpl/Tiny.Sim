@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#77B3D4;}
+	.st1{opacity:0.2;}
+	.st2{fill:#231F20;}
+	.st3{fill:#4F5D73;}
+	.st4{fill:#C75C5C;}
+	.st5{fill:#E0E0D1;}
+</style>
+<g id="Layer_1">
+	<g>
+		<circle class="st0" cx="32" cy="32" r="32"/>
+	</g>
+	<g class="st1">
+		<path class="st2" d="M48,50c0,2.2-1.8,4-4,4H20c-2.2,0-4-1.8-4-4V18c0-2.2,1.8-4,4-4h24c2.2,0,4,1.8,4,4V50z"/>
+	</g>
+	<g>
+		<path class="st3" d="M48,48c0,2.2-1.8,4-4,4H20c-2.2,0-4-1.8-4-4V16c0-2.2,1.8-4,4-4h24c2.2,0,4,1.8,4,4V48z"/>
+	</g>
+	<g class="st1">
+		<g>
+			<path class="st2" d="M35,14v7.8c0,0.3,0.2,0.5,0.4,0.6c0.1,0,0.2,0,0.3,0c0.2,0,0.3-0.1,0.5-0.2l2.9-2.8l2.9,2.8
+				c0.1,0.1,0.3,0.2,0.5,0.2c0.1,0,0.2,0,0.3,0c0.2-0.1,0.4-0.3,0.4-0.6V14H35z"/>
+		</g>
+	</g>
+	<g>
+		<g>
+			<path class="st4" d="M35,12v7.8c0,0.3,0.2,0.5,0.4,0.6c0.1,0,0.2,0,0.3,0c0.2,0,0.3-0.1,0.5-0.2l2.9-2.8l2.9,2.8
+				c0.1,0.1,0.3,0.2,0.5,0.2c0.1,0,0.2,0,0.3,0c0.2-0.1,0.4-0.3,0.4-0.6V12H35z"/>
+		</g>
+	</g>
+	<g>
+		<rect x="20" y="12" class="st5" width="3" height="40"/>
+	</g>
+</g>
+<g id="Layer_2">
+</g>
+</svg>
